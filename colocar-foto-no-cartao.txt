@@ -1,0 +1,5 @@
+![nome](url)
+
+EX:
+
+![animal fofinho](https://lista10.org/wp-content/uploads/2012/10/1.jpg)
